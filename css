@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+  width: 100%;  
+}
+
+h4{
+    margin: 10px 20px 10px 200px;
+    font-weight: 700;
+    border-bottom: solid black;
+}
+
+h1{
+    margin: 20px 450px 20px 450px;
+    font-size: 50px;
+}
+
+.main{
+    width: 750px;
+    margin-top:20px ;
+    margin-bottom:20px ;
+    margin-left:200px ;
+    margin-right:200px ;
+}
+
+p{
+  font-weight: 200;
+  border: solid black 1px;  
+  border-radius: 15px;
+  width: 500px;
+  padding: 20px;
+  margin-top:20px ;
+  margin-bottom:20px ;
+  margin-left:250px ;
+  margin-right:250px ;
+}
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.footer{
+  background-color: black; 
+  width: 100%;
+}
+
+.three{
+    background-color: white;
+    padding: 25px;
+    margin: 0px 3%;
+    width: 90%;
+    border: 1em solid black;
+}
+.three.second{
+  border-top: 0px; 
+}
